@@ -86,4 +86,3 @@ This project is for educational purposes only. Always respect website terms of s
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Muhammad-Ilyas-Ibrahim/Advanced-Web-Scraping/issues).
-```
